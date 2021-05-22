@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad596100.chunk.css",
+    "main.js": "/static/js/main.d092d27a.chunk.js",
+    "main.js.map": "/static/js/main.d092d27a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3ad4bd2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3ad4bd2.js.map",
+    "static/js/2.56f28766.chunk.js": "/static/js/2.56f28766.chunk.js",
+    "static/js/2.56f28766.chunk.js.map": "/static/js/2.56f28766.chunk.js.map",
+    "static/js/3.6c03cec5.chunk.js": "/static/js/3.6c03cec5.chunk.js",
+    "static/js/3.6c03cec5.chunk.js.map": "/static/js/3.6c03cec5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ad596100.chunk.css.map": "/static/css/main.ad596100.chunk.css.map",
+    "static/js/2.56f28766.chunk.js.LICENSE.txt": "/static/js/2.56f28766.chunk.js.LICENSE.txt",
+    "static/media/amazonqora.ca21f2be.png": "/static/media/amazonqora.ca21f2be.png",
+    "static/media/cart.ab506f95.svg": "/static/media/cart.ab506f95.svg",
+    "static/media/Cart.css": "/static/media/cartimage.2abaf48d.jpg",
+    "static/media/us.4c70daf4.svg": "/static/media/us.4c70daf4.svg",
+    "static/media/uzb_flag.09af6345.png": "/static/media/uzb_flag.09af6345.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3ad4bd2.js",
+    "static/js/2.56f28766.chunk.js",
+    "static/css/main.ad596100.chunk.css",
+    "static/js/main.d092d27a.chunk.js"
+  ]
+}
